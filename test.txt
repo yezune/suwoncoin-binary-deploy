@@ -1,0 +1,1 @@
+suwoncoin-binary-deploy과 trello 연동 확인
